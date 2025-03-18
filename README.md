@@ -110,8 +110,4 @@ This project is licensed under the **MIT License**.
 For any questions or inquiries:
 
 - 🔗 GitHub: [VishnuKaranth](https://github.com/VishnuKaranth)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-✨ This `README.md` provides an **eye-catching** and **detailed** overview of the project, ensuring clarity and engagement. 🚀
+- 📧 Email: [your-vishnukaranth04@gmail.com](mailto:vishnukaranth04@gmail.com)
