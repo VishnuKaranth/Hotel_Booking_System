@@ -33,7 +33,7 @@ The **OceanSide Hotel Booking System** is a full-stack web application that enab
 
 Ensure you have the following installed:
 
-- Java 17 or higher
+- Java 21 or higher
 - Node.js and npm
 - MySQL Server
 - Maven
