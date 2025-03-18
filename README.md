@@ -88,9 +88,6 @@ Ensure you have the following installed:
 - `POST /api/bookings/create` - Create a new booking
 - `GET /api/bookings/{id}` - Retrieve booking details by ID
 
-## Deployment
-
-
 ## Future Enhancements
 
 - Implement payment integration to handle online transactions.
@@ -108,9 +105,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes.
 4. Open a pull request detailing your changes.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
