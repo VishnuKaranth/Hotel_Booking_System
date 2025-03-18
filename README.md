@@ -1,7 +1,5 @@
 # 🌊 OceanSide Hotel Booking System 🏨
 
-![Hotel Booking System](https://source.unsplash.com/featured/?hotel,resort)  
-
 ## 🚀 Overview
 
 The **OceanSide Hotel Booking System** is a full-stack web application designed to provide a seamless online hotel booking experience. Users can explore rooms, make reservations, and manage bookings effortlessly.
